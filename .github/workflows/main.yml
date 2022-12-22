@@ -10,6 +10,6 @@ jobs:
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: Ajithkumarparthasarathy/automate-release-action@master
+      - uses: Ajithkumarparthasarathy/automate-release-action@main
         with:
           bump_version_scheme: minor
