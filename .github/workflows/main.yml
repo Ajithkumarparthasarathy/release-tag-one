@@ -12,3 +12,4 @@ jobs:
       - uses: Ajithkumarparthasarathy/automate-release-action@main
         with:
           bump_version_scheme: minor
+          use_github_release_notes: true
