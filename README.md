@@ -1,3 +1,4 @@
-# release-tag-one one
+# automate-release-tag 
 
-Hi hoi
+This repo is for the testing purpose
+
