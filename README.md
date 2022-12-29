@@ -1,4 +1,4 @@
-# automate-release-tag Testing
+# automate-release-tag
 
 This repo is for the testing purpose
 
