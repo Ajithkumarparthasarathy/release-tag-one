@@ -1,4 +1,4 @@
 # automate-release-tag 
 
-This repo is for the testing purpose 
+This repo for the testing purpose 
 
