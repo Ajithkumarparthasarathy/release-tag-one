@@ -12,6 +12,3 @@ jobs:
       - uses: Ajithkumarparthasarathy/automate-release-action@main
         with:
           bump_version_scheme: major
-          use_github_release_notes: true
-          tag_prefix: "V"
-          release_name: "Release <RELEASE_VERSION>"
